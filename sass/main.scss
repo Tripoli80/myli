@@ -1,0 +1,15 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+// Стили для файла с примером HTML-фрагмента
+@import './basis/var';
+@import './utils/mixin';
+@import './utils/placeholder';
+@import './basis/default';
+@import './basis/reset';
+@import './cards';
+
+
+
